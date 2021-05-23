@@ -1,1 +1,1 @@
-print("{{cookiecutter.name}}")
+test = "{{cookiecutter.name}}"
