@@ -1,5 +1,8 @@
 {
-    "folder_name": "cookiecutter_main_folder",
-    "file_name": "cookiecutter_file_name",
-    "name": "User Name"
+    "project_name" : "project demo",
+    "app_name" : "application",
+    "python_version" : "3",
+    "api_for_name" : "account",
+    "api_2_for_name" : "profile"
+
 }
